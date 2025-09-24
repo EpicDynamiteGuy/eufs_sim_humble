@@ -1,3 +1,6 @@
 build
 install
 log
+LICENSE
+CPPLINT.cfg
+CHANGELOG.md
